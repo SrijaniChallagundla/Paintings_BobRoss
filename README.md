@@ -20,6 +20,7 @@ Csv file containing metadata for each painting.
 | `episode` | Episode of 'The Joy of Painting' in which the painting was featured. | number |
 | `num_colors` | Number of unique colors used in the painting. | number |
 | `youtube_src` | Youtube video of episode featuring the painting. | text |
+| `video_length`| Length of the youtube video featuring the painting. |timestamp|
 | `colors` | List of colors used in the painting. | list |
 | `colors_hex` | List of colors (hexadecimal code) used in the painting. | list |
 
